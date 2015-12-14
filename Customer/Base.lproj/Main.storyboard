@@ -148,8 +148,10 @@
                         <outlet property="countryText" destination="alX-3d-VXC" id="sbd-yS-enS"/>
                         <outlet property="emailText" destination="s9a-dK-9Hr" id="91x-Yu-f14"/>
                         <outlet property="femaleBtn" destination="hlp-tN-TzI" id="T3S-Tf-6qq"/>
+                        <outlet property="femaleTxt" destination="J29-M2-Ula" id="fUv-Dq-0KS"/>
                         <outlet property="houseBtn" destination="JDY-pS-8fl" id="mPs-et-eQG"/>
                         <outlet property="maleBtn" destination="L30-gl-f5r" id="AZN-n6-e4G"/>
+                        <outlet property="maleTxt" destination="Cff-iC-2xR" id="dhr-Ye-sF1"/>
                         <outlet property="nameText" destination="bdx-KQ-fkg" id="hFa-0C-WGU"/>
                         <outlet property="phoneText" destination="DVT-tr-pkS" id="tCj-Ls-3Uv"/>
                         <segue destination="BYZ-38-t0r" kind="show" id="qxh-ga-X4s"/>

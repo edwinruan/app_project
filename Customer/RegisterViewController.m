@@ -11,6 +11,8 @@
 #import "AppDelegate.h"
 
 @interface RegisterViewController ()
+@property (weak, nonatomic) IBOutlet UILabel *maleTxt;
+@property (weak, nonatomic) IBOutlet UILabel *femaleTxt;
 
 @end
 

@@ -16,6 +16,8 @@
 @class ViewController;
 
 @interface RegisterViewController : UIViewController <CountryTableViewDelegate,UITextFieldDelegate,UINavigationControllerDelegate>
+
+// should put back into implementation file
 @property (weak, nonatomic) IBOutlet UITextField *nameText;
 
 @property (weak, nonatomic) IBOutlet UITextField *emailText;
