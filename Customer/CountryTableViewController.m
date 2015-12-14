@@ -18,7 +18,7 @@
     [super viewDidLoad];
     
     
-    self.array=[NSArray arrayWithObjects:@"China",@"Canada",@"Japan",@"India", @"United State", nil];
+    self.array=[NSArray arrayWithObjects:@"China",@"Canada",@"Japan",@"France", @"India" , @"United Kingdom",@"United State", nil];
     // Uncomment the following line to preserve selection between presentations.
     // self.clearsSelectionOnViewWillAppear = NO;
     
