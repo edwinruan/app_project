@@ -15,7 +15,6 @@
    
 }
 
-//designated initializer
 -(id)init{
     self=[super init];
     if (self) {
@@ -26,7 +25,7 @@
 
 }
 
-//convenient initializer
+
 -(id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier
 {
     self = [super initWithStyle:style reuseIdentifier:reuseIdentifier];
