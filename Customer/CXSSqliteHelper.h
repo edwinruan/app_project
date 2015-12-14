@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <sqlite3.h> // Requires libsqlite3.dylib
-
+#import <CoreData/CoreData.h>
 @interface CXSSqliteHelper : NSObject
 {
 
