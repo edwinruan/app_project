@@ -18,7 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     _sharedSqlite = [CXSSqliteHelper sharedSqliteHelper];
-    
+    //singleton 
     return YES;
 }
 
